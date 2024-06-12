@@ -1,0 +1,113 @@
+* body
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Danfo", serif;
+}
+
+
+#containerTopo
+{
+    width: 980px;
+    height: 150px;
+    /*background-color: darkseagreen;*/
+    margin: auto;
+}
+#logo
+{
+    width: 200px;
+    height: 100px;
+    /*background-color: aquamarine;*/
+    float: left;
+    margin-top: 25px;
+}
+    #logo img
+    {
+        margin: 10px 10px 10px 10px;
+        width: 150px;
+        float: left;
+    }
+#menu
+{
+    width: 780px;
+    height: 75px;
+    /*background-color: yellow;*/
+    float: right;
+    margin-top: 25px;
+    text-align: center;
+    word-spacing: 5px;
+    color: aqua;
+    font-size: 30px;
+    padding-top: 50px;
+}
+    #menu a
+    {
+        text-decoration: none;
+        color: chartreuse;
+    }
+        #menu a:hover
+        {
+        color: crimson;
+        }
+
+#banner
+{
+    width: 800px;
+    height: 400px;
+    /*background-image: url(ZT-jpg.webp);*/
+    margin: auto;
+    margin-top: 50px;
+}
+    #banner img
+    {
+        width: 800px;
+    }
+    
+#conteudo
+{
+    width: 1100px;
+    height: 800px;
+    background-color: beige;
+    margin: auto;
+    margin-top: 100px;
+}
+#esquerda
+{
+    width: 556px;
+    height: 556px;
+    /*background-image: url(RTX\ 3090\ TI.jpeg);*/
+    float: left;
+    margin-top: 100px;
+}
+#direita
+{
+    width: 450px;
+    height: 556px;
+    /*background-image: url(NIKKE.jpeg)*/
+    float: right;
+    margin-top: 100px;
+    
+}
+
+#rodape
+{
+    width: 980px;
+    height: 50px;
+    background-color: blueviolet;
+    margin: auto;
+    margin-top: 50px;
+}
+.justificado
+{
+    text-align: justify;
+}
+.titulo
+{
+    font-size: 16px;
+    color: coral;
+}
+.alinhado
+{
+    text-align: center;
+    color: white;
+}

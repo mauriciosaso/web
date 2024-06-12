@@ -1,0 +1,33 @@
+* body
+{
+    margin: 0px;
+    padding: 0px;
+}
+#topo
+{
+    width: 980px;
+    height: 50px;
+    background-color: chocolate;
+    margin: auto;
+}
+#banner
+{
+    width: 980px;
+    height: 400px;
+    background-color: rgb(104, 10, 191);
+    margin: auto;
+}
+#conteudo
+{
+    width: 980px;
+    height: 400px;
+    background-color: rgb(4, 212, 171);
+    margin: auto;
+}
+#rodape
+{
+    width: 980px;
+    height: 50px;
+    background-color: rgb(233, 3, 76);
+    margin: auto;
+}
