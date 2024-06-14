@@ -1,0 +1,92 @@
+* body
+{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Roboto Condensed", sans-serif;
+}
+
+#topo
+{
+    width: 100%;
+    height: auto;
+    background-color: rgb(255, 173, 201);
+    margin: auto;
+}
+
+a.nav-link
+{
+    color: black;
+    font-size: 20px;
+}
+a.nav-link:hover
+{
+    color: rgb(6, 248, 139);
+}
+
+#banner
+{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    margin-top: 50px;
+    background-color: hwb(0 99% 1%);
+}
+#banner img
+{
+    width: 100%;
+    height: 300px;
+}
+#textjustify
+{
+    margin-top: 20px;
+    text-align: justify;
+}
+#textcenter
+{
+    text-align: center;
+    margin-top: 15px;
+}
+#button
+{
+    background-color: rgb(255, 173, 201);
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 15px;
+    border-radius: 24px;
+}
+
+#conteudo
+{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    margin-top: 50px;
+    background-color: hwb(0 99% 1%);
+}
+#conteudo img
+{
+    width: 100%;
+    height: auto;
+}
+
+#conteudo2
+{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    margin-top: 50px;
+    background-color: hwb(0 99% 1%);   
+}
+#conteudo2 img
+{
+    width: 100%;
+    height: 350px;
+}
+#rodape
+{
+    width: 100%;
+    height: auto;
+    margin: auto;
+    margin-top: 50px;
+    background-color: rgb(255, 173, 201); 
+}
